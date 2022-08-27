@@ -1,0 +1,44 @@
+.parent {
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 27rem;
+    top:8rem;
+
+}
+
+.first-red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+
+.second-red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 100px
+}
+
+.third-red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+    top: 100px
+}
+
+.fourth-red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 200px
+}
